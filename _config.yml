@@ -1,1 +1,5 @@
-theme: midnight
+title: Peter Arkheds configuration
+description: Contains configuration setup
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
