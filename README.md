@@ -1,2 +1,2 @@
 # Peter Arkhed
-<h1>h1: Peter Arkhed</h1>
+<h1>Mitt HTML test - Peter Arkhed</h1>
